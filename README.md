@@ -1,6 +1,6 @@
 # Servo-Motors
 No 1.
-[link to servo meter](https://www.tinkercad.com/things/0Tp9HecXhby-servo-meter/editel?sharecode=1f_Ipz_V-y_nKGHoyU6mNpv0f_F1bOKxyr5ZiuwSPd8)
+[link to my servo meter on Tinkercad](https://www.tinkercad.com/things/0Tp9HecXhby-servo-meter/editel?sharecode=1f_Ipz_V-y_nKGHoyU6mNpv0f_F1bOKxyr5ZiuwSPd8)
 
 No 2.
 Three Systems That Use Servo Motors In My Environment in their workings .
